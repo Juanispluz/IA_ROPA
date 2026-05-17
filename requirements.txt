@@ -1,0 +1,29 @@
+# ── Proyecto Final: Predicción de Demanda — Ropa Medellín ──────────────────
+# Instalar con: pip install -r requirements.txt
+
+# Manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning — Scikit-learn
+scikit-learn>=1.3.0
+
+# Modelos Ensemble (Boosting)
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Optimización bayesiana de hiperparámetros
+optuna>=3.3.0
+
+# Deep Learning (Stacking NN)
+tensorflow>=2.13.0
+
+# Persistencia de modelos
+joblib>=1.3.0
+
+# Formato de notebooks
+nbformat>=5.9.0

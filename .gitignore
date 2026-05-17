@@ -177,3 +177,8 @@ pyrightconfig.json
 
 # Dataset 500MB
 ropa_medellin.csv
+
+# Generated output files
+output/
+*.pkl
+*.keras
